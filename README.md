@@ -1,2 +1,2 @@
 # PRODIGY_WD_01
-Task 1 - Responsive Webpage
+Task 1 - Responsive landing Webpage
